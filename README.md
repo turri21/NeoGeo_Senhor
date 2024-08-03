@@ -1,3 +1,8 @@
+-=(NeoGeo_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
+Important: Senhor does not support Dual SDRAM (at least for now).
 
 # [SNK Neo Geo](https://en.wikipedia.org/wiki/Neo_Geo_(system)) for [MiSTer Platform](https://github.com/MiSTer-devel/Main_MiSTer/wiki) 
 
