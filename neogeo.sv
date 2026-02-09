@@ -126,14 +126,14 @@ module emu
 	output  [1:0] AUDIO_MIX, // 0 - no mix, 1 - 25%, 2 - 50%, 3 - 100% (mono)
 
 	//ADC
-	inout   [3:0] ADC_BUS,
+//	inout   [3:0] ADC_BUS,
 
 	//SD-SPI
-	output        SD_SCK,
-	output        SD_MOSI,
-	input         SD_MISO,
-	output        SD_CS,
-	input         SD_CD,
+//	output        SD_SCK,
+//	output        SD_MOSI,
+//	input         SD_MISO,
+//	output        SD_CS,
+//	input         SD_CD,
 
 	//High latency DDR3 RAM interface
 	//Use for non-critical time purposes
