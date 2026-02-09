@@ -1,4 +1,8 @@
+-=(NeoGeo_Senhor notes)=-
 
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # [SNK Neo Geo](https://en.wikipedia.org/wiki/Neo_Geo_(system)) for [MiSTer Platform](https://github.com/MiSTer-devel/Main_MiSTer/wiki) 
 
 This is an FPGA implementation of the NEO GEO/MVS system by [Furrtek](https://www.patreon.com/furrtek/posts)
@@ -45,3 +49,4 @@ In AES mode, all saves are to the memory card only. In MVS mode, some games and 
 
 ## RAM and Game Sizes
 Neo Geo uses very large ROMs. About 84% of the library will fit onto a 32 megabyte SDRAM module. Another 12% will fit onto a 64 megabyte SDRAM module. The remaining 8 games require a 128 megabyte module. For more information about which games can be loaded with which sized RAM, open romsets.xml in your favorite text editor or github. The games are organized by size.
+
